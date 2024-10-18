@@ -31,4 +31,4 @@ Chúng tôi có quyền cập nhật chính sách bảo mật này. Nếu có s�
 
 ### Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua địa chỉ email: [polaris70m@gmail.com].
+Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua địa chỉ email: polaris70m@gmail.com.
