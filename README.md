@@ -10,27 +10,21 @@ Chúng tôi, PolaMap, cam kết bảo vệ quyền riêng tư của người dù
 
 Chúng tôi có thể thu thập và xử lý các thông tin sau:
 
-	•	Thông tin vị trí: Để cung cấp cảnh báo tốc độ và thông tin giao thông chính xác, chúng tôi sẽ thu thập dữ liệu vị trí của bạn.
+- Thông tin vị trí: Để cung cấp cảnh báo tốc độ và thông tin giao thông chính xác, chúng tôi sẽ thu thập dữ liệu vị trí của bạn.
 
 3. Cách chúng tôi sử dụng thông tin
-
 Chúng tôi sử dụng thông tin mà chúng tôi thu thập để:
-
-	•	Cung cấp cảnh báo tốc độ và thông tin giao thông theo thời gian thực.
-	•	Nâng cao trải nghiệm người dùng bằng cách cải thiện các tính năng của ứng dụng.
-	•	Gửi thông báo và cập nhật liên quan đến ứng dụng.
+	- Cung cấp cảnh báo tốc độ và thông tin giao thông theo thời gian thực.
+	- Nâng cao trải nghiệm người dùng bằng cách cải thiện các tính năng của ứng dụng.
+	- Gửi thông báo và cập nhật liên quan đến ứng dụng.
 
 4. Bảo mật thông tin
-
 Chúng tôi áp dụng các biện pháp bảo mật thích hợp để bảo vệ thông tin cá nhân của bạn khỏi việc truy cập trái phép, sử dụng hoặc tiết lộ. Dữ liệu vị trí của bạn sẽ không được chia sẻ với bên thứ ba mà không có sự đồng ý của bạn.
 
 5. Quyền của người dùng
-
 Bạn có quyền:
-
-	•	Yêu cầu truy cập vào thông tin cá nhân của mình.
-	•	Yêu cầu sửa đổi hoặc xóa thông tin cá nhân nếu có sai sót.
-	•	Hủy bỏ quyền sử dụng thông tin vị trí của bạn trong phần cài đặt của ứng dụng.
+	- Yêu cầu sửa đổi hoặc xóa thông tin cá nhân nếu có sai sót.
+	- Hủy bỏ quyền sử dụng thông tin vị trí của bạn trong phần cài đặt của ứng dụng.
 
 6. Thay đổi chính sách
 
