@@ -1,9 +1,9 @@
-Dưới đây là mẫu chính sách bảo mật (Privacy Policy) bằng tiếng Việt cho ứng dụng PolaMap:
+Chính sách bảo mật (Privacy Policy) bằng tiếng Việt cho ứng dụng Polamap:
 
 ## Chính Sách Bảo Mật
 ### Giới thiệu
 
-Chúng tôi, PolaMap, cam kết bảo vệ quyền riêng tư của người dùng. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng.
+Chúng tôi, Polamap, cam kết bảo vệ quyền riêng tư của người dùng. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng.
 
 ### Thông tin chúng tôi thu thập
 
